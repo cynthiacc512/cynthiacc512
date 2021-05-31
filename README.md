@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Cynthia Caroline, you can call me Cynthia
-- 👀 I’m a student majoring in Informatics..
+- 👀 I’m a student majoring in Informatics.. I like exploring something about IT programming 😂
 - So.. My Github will posting about my final projects and my exploration 👌
