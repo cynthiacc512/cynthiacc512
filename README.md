@@ -2,4 +2,5 @@
 - 👀 I’m a student majoring in Informatics.. I like exploring something about FrontEnd Web Development and Machine Learning 😂
 - So.. My Github will posting about my final projects and my exploration 👌
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiacc512&layout=compact)](https://github.com/cynthiacc512/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cynthiacc512)](https://github.com/anuraghazra/github-readme-stats)
+
